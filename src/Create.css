@@ -1,0 +1,11 @@
+
+
+
+.form-inputs {
+    display: block;
+    min-width: 40vw
+}
+.input-fields {
+    object-fit: fill;
+    margin: 20px;
+}
